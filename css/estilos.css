@@ -1,5 +1,4 @@
-body
-{
+body {
     color: green;
     text-align: center;
     font-family: "Arial";
@@ -7,26 +6,29 @@ body
     margin: 1px;
     padding: 0;
 }
-#cabecera
-{
+
+#cabecera {
     background: #33A;
     color: white;
     margin: 0;
     padding: 0.5cm;
-    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
-
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75);
 }
 
-#container
-{
-    width:70%;
-    padding:2cm;
+#container {
+    width: 70%;
+    padding: 2cm;
     text-align: left;
     border: 3px solid blue;
-     margin: 0 auto; 
+    margin: 0 auto;
 }
 
-#cotainer h1
-{
+#cotainer h1 {
     font-size: 20px,
+}
+
+#footer {
+    background: #333;
+    color: white;
+    padding: 0.5em;
 }
