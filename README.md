@@ -1,4 +1,3 @@
 # blog
-blog simple
-
-Nunca vi algo tan bkn como esto 
+blog simple Nunca vi algo tan bkn como esto 
+x2
